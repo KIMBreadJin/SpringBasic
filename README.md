@@ -1,3 +1,3 @@
 # SpringBasic
 ## Today I learned
-### FirstSpring
+### First Springboot
